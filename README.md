@@ -1,2 +1,3 @@
 # Zircon3D
-Design Files
+This repository is currenty in development.
+Some work needs to be done to make files suitable for upload.
